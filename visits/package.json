@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "redis": "*"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/redis": "*"
+  }
+}
